@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/platzi-todo_practica_react/static/css/main.8fa98e06.css",
+    "main.js": "/platzi-todo_practica_react/static/js/main.438956ad.js",
+    "index.html": "/platzi-todo_practica_react/index.html",
+    "static/media/square-xmark-solid.svg": "/platzi-todo_practica_react/static/media/square-xmark-solid.18cfd28b6797286752d99eee4a5b14b3.svg",
+    "static/media/circle-check-solid.svg": "/platzi-todo_practica_react/static/media/circle-check-solid.3888416ef4f608cee01b2a561e9da6cf.svg",
+    "main.8fa98e06.css.map": "/platzi-todo_practica_react/static/css/main.8fa98e06.css.map",
+    "main.438956ad.js.map": "/platzi-todo_practica_react/static/js/main.438956ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa98e06.css",
+    "static/js/main.438956ad.js"
+  ]
+}
